@@ -18,4 +18,4 @@ Geeks for Geeks
 ```
 ## Output:
 _____
-![](images/image.png)
+![](out.png)
