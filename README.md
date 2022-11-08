@@ -1,4 +1,4 @@
-# snake Game
+# Snake Game
 **In this game, a user can have 4 operations**:
 _____
 ```
